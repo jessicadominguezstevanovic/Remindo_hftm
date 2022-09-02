@@ -48,10 +48,10 @@ public class ReminderListViewActivity extends AppCompatActivity {
         ListView listView = findViewById(R.id.reminderItemsView);
 
         List<String> list = new ArrayList<>();
-        list.add("Apple");
-        list.add("Orange");
-        list.add("Grapes");
-        list.add("Bananas");
+        list.add("Reminder 1");
+        list.add("Reminder 2");
+        list.add("Reminder 3");
+        list.add("Reminder 4");
 
         ArrayAdapter arrayAdapter;
         arrayAdapter = new ArrayAdapter(getApplicationContext(), android.R.layout.simple_list_item_1, list);
