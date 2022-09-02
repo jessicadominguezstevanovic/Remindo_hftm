@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/drawable/oval_color_point.xml" value="0.3595" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/drawable/oval_color_point_clicked.xml" value="0.3585" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/drawable/round_button.xml" value="0.283" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/layout/activity_add_reminder.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/layout/activity_add_reminder_item.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/layout/activity_help.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/layout/activity_login.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/layout/activity_main.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/layout/activity_reminder_calendar_view.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/layout/activity_reminder_item_view.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/layout/activity_reminder_list_view.xml" value="0.25" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/layout/activity_user_profile.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/jessi/AndroidStudioProjects/Remindo/app/src/main/res/menu/main_menu.xml" value="0.3572916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Remindo</string>
+    <string name="add_reminder_btn">+</string>
+
+    <!-- Add Reminder View -->
+    <string name="add_reminder_title">Add new Reminder</string>
+    <string name="reminder_name">Add new Reminder</string>
+    <string name="reminder_title_lbl">Add a Reminder name</string>
+    <string name="reminder_notes_lbl">Add notes to your Reminder</string>
+    <string name="reminder_selected_date_lbl">Selected Date:</string>
+    <string name="reminder_datepicker_btn">Select Date</string>
+    <string name="reminder_select_color_lbl">Select a color for your Reminder</string>
+    <string name="reminder_save_changes_btn">Save</string>
+    <string name="help_here">help here</string>
+    <string name="search">Search</string>
+    <string name="user_profile">User Profile</string>
+    <string name="calendar_view">Calendar view</string>
+    <string name="list_view">List view</string>
+    <string name="logout">Logout</string>
+    <string name="help_menu">Help</string>
+    <string name="logout_btn">Logout</string>
+</resources>
